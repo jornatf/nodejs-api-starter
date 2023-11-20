@@ -45,4 +45,4 @@ This command will execute `nodemon server.js` command. For each code update, `no
 
 Current licence is `MIT`.
 
-**You are free to modify and improve this git project.**8
+**You are free to modify and improve this git project.**
