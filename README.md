@@ -13,7 +13,13 @@ $ npm install
 ```
 ### Environment
 
-Create a `.env` file to the project root and copy/paste this default variables:
+You can type command: 
+
+```bash
+$ cp .env.example .env
+```
+
+or manually create  a `.env` file to the project root and copy/paste this default variables:
 
 ```
 API_ENV=dev
@@ -40,6 +46,14 @@ $ nodemon server.js
 ```
 
 This command will execute `nodemon server.js` command. For each code update, `nodemon` will restart automatically.
+
+## Deployment
+
+You can deploy with **Vercel**: [see more](https://vercel.com/) and check `vercel.json` file.
+
+👇 Clone and Deploy now HERE by clicking here
+
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2Fjornatf%2Fnodejs-api-starter)
 
 ## Licence and contributing
 
