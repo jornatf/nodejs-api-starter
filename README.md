@@ -41,7 +41,7 @@ PORT=8000
 # Run
 $ npm run dev
 
-# or if you have nodemon installed globally
+# or run directly
 $ nodemon server.js
 ```
 
